@@ -5,7 +5,7 @@
 In this project, we will develop a Project Management Database using SQL Server. This project management database will be based on PMI-PMBOK. This database will allow the end user to perform basic Project Management Tasks.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-# Project Administration
+# Project Management Database Features
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1) Project Administration
